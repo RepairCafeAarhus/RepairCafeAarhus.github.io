@@ -1,7 +1,7 @@
 ---
 layout: default
 img: ipad.png
-category: what_we_do
+category: services
 title: Repair Bikes
 description: |
 ---
