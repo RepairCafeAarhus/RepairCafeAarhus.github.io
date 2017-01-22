@@ -1,6 +1,7 @@
 ---
 layout: default
 img: ipad.png
+category: what_we_do
 title: Next time
 description: |
 ---
