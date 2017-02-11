@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://repaircafeaarhus.github.io
+url: https://repaircafeaarhus.github.io
 title: Repair Cafe Aarhus
 email: donotreply@22decembre.eu
 author: Stephane
@@ -25,3 +25,5 @@ permalink: pretty
 social:
   - title: Facebook
     url: https://www.facebook.com/RepairCafeAarhus/
+  - title: Instagram
+    url: https://www.instagram.com/RepairCafeAarhus/
