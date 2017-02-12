@@ -1,0 +1,13 @@
+---
+layout: default
+img:
+title: Madhuri  and  Chirag
+category: volunteers
+description: |
+---
+
+Madhuri and Chirag are daily surrounded with tecnique as engineers in Vestas, and are good at fixing bikes.
+They  are both  proactiv  in  enviroment, and how to make Aarhus an even bigger ”bike city”.
+ 
+Madhuri and Chirag er til daglig omgivet af teknik som ingeniører på Vestas, og er gode til at reparere cykler.
+De er begge optaget af miljø, og hvordan vi kan gøre Aarhus til en endnu større cykelby.
