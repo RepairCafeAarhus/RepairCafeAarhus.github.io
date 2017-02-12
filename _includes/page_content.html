@@ -15,7 +15,15 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                {% if post.img contains 'mp4'  %}
+                <video autoplay loop>
+                    <source src="img/services/{{ post.img }}" type="video/mp4">
+                    Your browser does not support videos.
+                </video>
+                
+                {% else %}
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                {% endif %}
                 </div>
             </div>
 
@@ -38,7 +46,15 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                {% if post.img contains 'mp4'  %}
+                <video autoplay loop>
+                    <source src="img/services/{{ post.img }}" type="video/mp4">
+                    Your browser does not support videos.
+                </video>
+                
+                {% else %}
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                {% endif %}
                 </div>
             </div>
 
