@@ -89,6 +89,13 @@
                     <source src="img/services/{{ post.img }}" type="video/mp4">
                     Your browser does not support videos.
                 </video>
+                {% else %}
+                    {% if post.img contains 'webm'  %}
+                    <video autoplay loop>
+                        <source src="img/services/{{ post.img }}" type="video/webm">
+                        Your browser does not support videos.
+                    </video>
+                    {% endif %}
                 
                 {% else %}
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
@@ -120,6 +127,13 @@
                     <source src="img/services/{{ post.img }}" type="video/mp4">
                     Your browser does not support videos.
                 </video>
+                {% else %}
+                    {% if post.img contains 'webm'  %}
+                    <video autoplay loop>
+                        <source src="img/services/{{ post.img }}" type="video/webm">
+                        Your browser does not support videos.
+                    </video>
+                    {% endif %}
                 
                 {% else %}
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
