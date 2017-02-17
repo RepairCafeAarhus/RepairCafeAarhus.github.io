@@ -1,7 +1,7 @@
 ---
 layout: default
 img: dog.png
-title: Matrin
+title: Martin
 category: volunteers
 description: |
 ---
