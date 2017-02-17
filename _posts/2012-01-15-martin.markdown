@@ -1,15 +1,14 @@
 ---
 layout: default
-img: dog.png
+img: martin.jpg
 title: Martin
 category: volunteers
 description: |
 ---
 Martin er elektronik-entusiast og driver *Work On*, et smartphone-, tablet- og PlayStationværksted.
 På Repair Cafe stiller han sig selv og sine iPhone-reservedele til rådighed.
-Så du betaler kun for delene til din reparation og får Martins ekspertise ganske gratis!
+Så du [betaler kun for delene](http://workon.dk/iphone-ipad-ps3-reparation-prisliste/) til din reparation og får Martins ekspertise ganske gratis!
 
-Martin is an electronics-entusiast and runs Work On, a smartphone-, tablet- and PlayStation repairshop.
-During Repair Cafe events, Martin provides his expertise, and at a small fee, his iPhone-parts as well.
-So you only pay for parts and gets Martin's help with your iPhone-repair for free!  
-  
+Martin is an electronics enthusiast and runs Work On, a repair shop for smartphones, tablets and PlayStations. During Repair Cafe events, Martin
+provides his expertise and, for a small fee, his iPhone parts as well.
+You will only [pay for parts](http://workon.dk/iphone-ipad-ps3-reparation-prisliste/), and get Martin’s help with your iPhone repair for free! 
