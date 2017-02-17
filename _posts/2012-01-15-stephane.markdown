@@ -1,0 +1,12 @@
+---
+layout: default
+img: stephane.jpg
+title: Stéphane
+category: volunteers
+description: |
+---
+Stéphane er en selvlært computer amatør. Han kan godt lide at bygge og reparere eller setup computere eller software.
+Han er også webmasteren for Repair Café Aarhus (aka den hjemmeside).
+
+Stéphane is a self-taught computer amateur. He likes to build, repair or setup computers or softwares.
+He is also the webmaster for Repair Café Aarhus (aka this website).
