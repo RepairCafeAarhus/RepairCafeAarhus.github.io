@@ -4,6 +4,15 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+/* special add for repaircafeaarhus */
+
+video {
+  width: 80%    !important;
+  height: auto   !important;
+}
+
+/* end of line */
+
 body,
 html {
     width: 100%;
@@ -19,6 +28,10 @@ h5,
 h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+}
+
+h2 {
+    text-align: center;    
 }
 
 .lead {
