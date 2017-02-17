@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: clothes.mp4
 title: Clothes
 category: services
 description: |
