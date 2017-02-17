@@ -1,8 +1,12 @@
 ---
 layout: default
-img: ipad.png
+img: phone.mp4
 title: Phones
 category: services
 description: |
 ---
-  One of our members will help you with your iPhone.
+Martin can help you with everything related to your smartphone. He always come stocked with screens and batteries to replace your broken iPhone screen or dead/dying iPhone battery. You will only have to [pay for the parts](http://workon.dk/iphone-ipad-ps3-reparation-prisliste/) themselves, at small price.
+
+Martin kan lave enhver smartphone reparation.
+Han medbringer altid iPhone skærme og batterier til at udskifte din ødelagte iPhone skærm eller døde/døende iPhone batteri.
+Så du [betaler kun for delene](http://workon.dk/iphone-ipad-ps3-reparation-prisliste/).
