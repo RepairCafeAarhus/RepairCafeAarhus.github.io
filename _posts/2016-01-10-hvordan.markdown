@@ -1,0 +1,11 @@
+---
+layout: default
+category: how
+img: dokk1.jpg
+title: Hvordan finder du os ?
+description: |
+---
+
+Man kan komme hver anden lørdag i måneden på Rampen i [Dokk1](https://dokk1.dk/).
+
+De næste gange er den 11. marts og 8. april.
