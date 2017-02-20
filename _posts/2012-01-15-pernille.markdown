@@ -1,6 +1,6 @@
 ---
 layout: default
-img: pernille.jpg
+img: pernille2.jpg
 title: Pernille
 category: volunteers
 description: |
