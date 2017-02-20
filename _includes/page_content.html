@@ -67,9 +67,9 @@
 {% endfor %}
 </section>
 
-<section id="services">
+<section id="how">
 <!-- Page Content -->
-{% for post in site.categories.services reversed %}
+{% for post in site.categories.how reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
@@ -89,13 +89,6 @@
                     <source src="img/services/{{ post.img }}" type="video/mp4">
                     Your browser does not support videos.
                 </video>
-                {% else %}
-                    {% if post.img contains 'webm'  %}
-                    <video autoplay loop>
-                        <source src="img/services/{{ post.img }}" type="video/webm">
-                        Your browser does not support videos.
-                    </video>
-                    {% endif %}
                 
                 {% else %}
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
@@ -127,14 +120,74 @@
                     <source src="img/services/{{ post.img }}" type="video/mp4">
                     Your browser does not support videos.
                 </video>
-                {% else %}
-                    {% if post.img contains 'webm'  %}
-                    <video autoplay loop>
-                        <source src="img/services/{{ post.img }}" type="video/webm">
-                        Your browser does not support videos.
-                    </video>
-                    {% endif %}
                 
+                {% else %}
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                {% endif %}
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->
+    {% endif %}
+{% endfor %}
+</section>
+
+<section id="services">
+<!-- Page Content -->
+{% for post in site.categories.services reversed %}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+    <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <div class="lead">{{ post.content }}</div>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                {% if post.img contains 'mp4'  %}
+                <video autoplay loop>
+                    <source src="img/services/{{ post.img }}" type="video/mp4">
+                    Your browser does not support videos.
+                </video>           
+                {% else %}
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                {% endif %}
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+    {% else %}
+
+    <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <div class="lead">{{ post.content }}</div>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                {% if post.img contains 'mp4'  %}
+                <video autoplay loop>
+                    <source src="img/services/{{ post.img }}" type="video/mp4">
+                    Your browser does not support videos.
+                </video>
                 {% else %}
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
                 {% endif %}
