@@ -1,7 +1,7 @@
 ---
 layout: default
 img: clothes.mp4
-title: Clothes
+title: Clothes / Tøj
 category: services
 description: |
 ---
