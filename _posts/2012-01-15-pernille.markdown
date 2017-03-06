@@ -6,6 +6,7 @@ category: volunteers
 description: |
 ---
 Pernille er vores tekstil-kreativ person.
-Hun er også helt vild med Instagram og har derfor styr på det.
+Hun er også helt vild med [Instagram](https://instagram.com/repaircafeaarhus) og har derfor styr på det.
 
-Pernille is the person you think of, when it comes to create with her hands. She is also quite active on Instagram and is our master on this side.
+Pernille is the person you think of, when it comes to create with her hands.
+She is also quite active on [Instagram](https://instagram.com/repaircafeaarhus) and is our master on this side.
