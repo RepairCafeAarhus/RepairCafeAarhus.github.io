@@ -1,0 +1,14 @@
+---
+layout: default
+category: help
+img: 
+title: Vil du hjælp os ?
+description: |
+---
+
+Hvis du ønsker at hjælpe os med at hjælpe andre, så kan du nemlig send <a class="page-scroll" href="#contact">besked</a> til.
+
+Vi har bruge for mennesker der kender til cykler og måske elektroniks (højtaler eller køkkenudstyr for eksempel).
+Hvis du kender et eller andet ting om repairing, så er du velkomme at kontakte os eller komme.
+
+Du bliver en del af teamet med gode venner. Du lære ikke kun af reparere, men os en del med kultur og sprog, for vi er danskere, franskmand, englænder, amerikaner og indianere !

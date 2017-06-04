@@ -1,0 +1,17 @@
+---
+layout: default
+category: help
+img: 
+title: Want to help ?
+description: |
+---
+
+If you wish to join and help us to help others, please <a class="page-scroll" href="#contact">message</a> us!
+
+We would be glad to have new members for the bike team or people who have experience with electronics (speakers, kitchenware...).
+But people with other skills are still very welcome to join us!
+
+You'll join a team of great friends, as we often hang out together.
+
+Not only can you learn how to repair, but you can also learn new languages and cultures, as we are from all horizons, both locals (Danes), Europeans
+(Frenchman) or almost (Englishwoman...  ) and internationals (Indians and
